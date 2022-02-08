@@ -1,5 +1,5 @@
 # CSS-Portfolio-Project
->projeto simples de um botão estilizado.
+>projeto de html/css simples de portfolio. 
 
 Objetivos
     praticar html/css/js
