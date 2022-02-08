@@ -1,4 +1,4 @@
-# CSS-Portfolio-Proejct
+# CSS-Portfolio-Project
 >projeto simples de um botão estilizado.
 
 Objetivos
