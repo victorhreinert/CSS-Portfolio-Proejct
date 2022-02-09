@@ -1,6 +1,21 @@
 img{
-    /*more responsive */
+    /*width com porcetagem para ser mais responsivo */
     width: 30%;
+    /* margem calculada em 10% dividios com os lados das 3 imagem numa linha*/
+    /* usando a operação calc para divir*/
     margin: calc(10%/6);
+
+
+}
+
+nav {
+    text-transform: uppercase;
+    border-bottom: 2px solid #f1f1f1;
+    /* width de 30 para a border acompanhar a primeira imagem*/
+    width: 30%;
+    /*margin calc para sempre a borda acompanhar a responsividade junto com a imagem*/
+    margin-left: calc(10%/6);
+
+
 
 }
