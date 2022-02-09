@@ -1,4 +1,6 @@
 img{
-    /*more responsive*/
+    /*more responsive */
     width: 30%;
+    margin: calc(10%/6);
+
 }
