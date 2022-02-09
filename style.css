@@ -15,6 +15,10 @@ nav {
     width: 30%;
     /*margin calc para sempre a borda acompanhar a responsividade junto com a imagem*/
     margin-left: calc(10%/6);
+    font-family: 'Raleway',sans-serif;
+    font-size: 1.7em;
+    padding: 0.7em 0;
+
 
 
 
